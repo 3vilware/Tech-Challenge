@@ -22,7 +22,7 @@ An example of this may be found on https://github.com/3vilware/E-commerce-API fe
 required to be the same, is just a little way to solve it and it is not exactly the same challenge). 
 
 
-we wish you the best you can do it! :) 
+We wish you the best you can do it! :) 
 
  
  
